@@ -1,1 +1,1 @@
-https://ultimate-form-18.herokuapp.com/
+https://ultimate-form-18.herokuapp.com/users/new
